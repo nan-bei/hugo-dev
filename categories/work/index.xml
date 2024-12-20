@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Work on Cao&#39;s blog</title>
+        <link>https://nan-bei.github.io/hugo-dev/categories/work/</link>
+        <description>Recent content in Work on Cao&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>cao zhenlong</copyright>
+        <lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://nan-bei.github.io/hugo-dev/categories/work/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>PHP &amp; HTML Forms</title>
+        <link>https://nan-bei.github.io/hugo-dev/p/php-html-forms/</link>
+        <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://nan-bei.github.io/hugo-dev/p/php-html-forms/</guid>
+        <description>&lt;img src="https://nan-bei.github.io/hugo-dev/p/php-html-forms/55cb5d37f65e29613b209c861f857c6.png" alt="Featured image of post PHP &amp; HTML Forms" /&gt;&lt;h1 id=&#34;week-11---php--html-forms&#34;&gt;Week 11 - PHP &amp;amp; HTML Forms
+&lt;/h1&gt;&lt;h2 id=&#34;todays-class&#34;&gt;Today&amp;rsquo;s Class
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;CSS Quiz&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Please attempt the quiz.&lt;/li&gt;
+&lt;li&gt;Each attempt is for 30 minutes, and only one attempt is allowed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;HTML Forms&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Attempt the tutorials and exercises on HTML forms in &lt;a class=&#34;link&#34; href=&#34;https://www.w3schools.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;W3Schools&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;PHP Introduction&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Watch this &lt;a class=&#34;link&#34; href=&#34;https://youtu.be/ZdP0KM49IVk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;online video on PHP&lt;/a&gt;. &lt;em&gt;(Note: This video is old but still very good and straightforward.)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Windows users can use &lt;strong&gt;XAMPP&lt;/strong&gt; instead of &lt;strong&gt;MAMP&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Further Exploration&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Learn about using &lt;strong&gt;XAMPP&lt;/strong&gt; and web development with &lt;strong&gt;WordPress&lt;/strong&gt;.&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://youtu.be/A4r-Q5YnMLE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Play Video&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Recommended PHP tutorial playlist:&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PHP Playlist&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;important-note&#34;&gt;&lt;strong&gt;Important Note&lt;/strong&gt;
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;PHP is &lt;strong&gt;NOT&lt;/strong&gt; a requirement for your class project.&lt;/li&gt;
+&lt;li&gt;This class is for exposure purposes.&lt;/li&gt;
+&lt;li&gt;Advanced web-building students are encouraged to use PHP in their projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;queries&#34;&gt;Queries?
+&lt;/h3&gt;&lt;p&gt;I&amp;rsquo;ll be available on our WhatsApp group to answer any questions.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
